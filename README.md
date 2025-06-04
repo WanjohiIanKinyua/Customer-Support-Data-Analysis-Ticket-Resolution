@@ -12,4 +12,5 @@ Improved my problem-solving skills by translating data patterns into process imp
 Gained practical experience using Python for text mining and Excel for business reporting.
 💡 Insight: Automating responses for the top 5 most common issues could significantly reduce response time and improve customer satisfaction.\
 
-![Uploading WhatsApp Image 2025-06-04 at 11.42.15_0911cabd.jpg…]()
+![WhatsApp Image 2025-06-04 at 11 42 15_33665166](https://github.com/user-attachments/assets/0fce75f2-6055-48a4-8e6a-5c73b767fe64)
+
